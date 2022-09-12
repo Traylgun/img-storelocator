@@ -1,0 +1,645 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -92.24567,42.46333 ]
+    },
+    "properties": {
+    "Title":"Main Office",
+    "Address":"101 Bmc Dr, Elk Run Heights, IA 50707",
+    "Category":"Office",
+    "Site ID":0,
+    "Phone Number":"(319) 235-6583",
+    "Hours":"Monday - Friday | 7:30 AM - 4:30 PM",
+    "Sales Employee":"Gary Rankin"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.38855,43.26228 ]
+    },
+    "properties": {
+    "Title":"Fertile Office",
+    "Address":"3446 Fir Ave, Hanlontown, IA 50444",
+    "Category":"Office",
+    "Site ID":8300,
+    "Phone Number":"(641) 592-6105",
+    "Hours":"Monday - Friday | 7:30 AM - 4:30 PM",
+    "Sales Employee":"Dan Ouverson"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -92.07318,42.84603 ]
+    },
+    "properties": {
+    "Title":"Sumner Office",
+    "Address":"24541 150th St, Sumner, IA 50674",
+    "Category":"Office",
+    "Site ID":9000,
+    "Phone Number":"(319) 235-6583",
+    "Hours":"Monday - Friday | 7:30 AM - 4:30 PM",
+    "Sales Employee":"Jeff Potratz"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -92.29601,42.34995 ]
+    },
+    "properties": {
+    "Title":"Waterloo South",
+    "Address":"11305 Dysart Rd, La Porte City, IA 50651",
+    "Category":"Quarry",
+    "Site ID":8301,
+    "Phone Number":"(319) 342-3369",
+    "Hours":"Monday - Friday | 7:00 AM - 5:00PM",
+    "Sales Employee":"Gary Rankin"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -92.37734,42.53183 ]
+    },
+    "properties": {
+    "Title":"Waterloo Sand",
+    "Address":"2429 Wagner Rd, Waterloo, IA 50703",
+    "Category":"Sand Pit",
+    "Site ID":8302,
+    "Phone Number":"(877) 910-6207",
+    "Hours":"Monday - Friday | 7:00 AM - 5:00PM",
+    "Sales Employee":"Gary Rankin"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.38855,43.26228 ]
+    },
+    "properties": {
+    "Title":"Fertile Sand",
+    "Address":"3446 Fir Ave, Hanlontown, IA 50444",
+    "Category":"Sand Pit",
+    "Site ID":8303,
+    "Phone Number":"(641) 592-6105",
+    "Hours":"Monday - Friday | 7:00 AM - 5:00PM",
+    "Sales Employee":"Dan Ouverson"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.38843,43.26228 ]
+    },
+    "properties": {
+    "Title":"Fertile Stone",
+    "Address":"3447 Fir Ave, Hanlontown, IA 50444",
+    "Category":"Quarry",
+    "Site ID":8304,
+    "Phone Number":"(641) 592-6105",
+    "Hours":"Monday - Friday | 7:00 AM - 5:00PM",
+    "Sales Employee":"Dan Ouverson"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -92.24624,42.52708 ]
+    },
+    "properties": {
+    "Title":"Morgan Quarry",
+    "Address":"4618 E Donald St, Waterloo, IA 50703",
+    "Category":"Quarry",
+    "Site ID":8306,
+    "Phone Number":"(877) 910-6207",
+    "Hours":"Monday - Friday | 7:00 AM - 5:00PM",
+    "Sales Employee":"Gary Rankin"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -92.31762,42.88656 ]
+    },
+    "properties": {
+    "Title":"Frederika Quarry",
+    "Address":"1144 Midway Ave, Tripoli, IA 50676",
+    "Category":"Quarry",
+    "Site ID":8307,
+    "Phone Number":"(866) 276-8253",
+    "Hours":"Monday - Friday | 7:00 AM - 5:00PM",
+    "Sales Employee":"Gary Rankin"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -92.25849,42.5498 ]
+    },
+    "properties": {
+    "Title":"Gilbertville Sand",
+    "Address":"3622 Gilberville Rd, Waterloo, IA 50703",
+    "Category":"Sand Pit",
+    "Site ID":8308,
+    "Phone Number":"(844) 702-3199",
+    "Hours":"Monday - Friday | 7:00 AM - 5:00PM",
+    "Sales Employee":"Gary Rankin"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.63811,43.05483 ]
+    },
+    "properties": {
+    "Title":"Garner Quarry",
+    "Address":"1775 200th St, Garner, IA 50438",
+    "Category":"Quarry",
+    "Site ID":8311,
+    "Phone Number":"(800) 469-3772",
+    "Hours":"Monday - Friday | 7:00 AM - 5:00PM",
+    "Sales Employee":"Dan Ouverson"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -92.20932,42.33125 ]
+    },
+    "properties": {
+    "Title":"Zeien Sand & Gravel",
+    "Address":"12649 LaPorte Rd, La Porte City, IA  50651",
+    "Category":"Sand Pit",
+    "Site ID":8312,
+    "Phone Number":"(888) 944-9400",
+    "Hours":"Monday - Friday | 7:00 AM - 5:00PM",
+    "Sales Employee":"Gary Rankin"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -92.25849,42.5498 ]
+    },
+    "properties": {
+    "Title":"G'Ville Sandblast",
+    "Address":"3622 Gilberville Rd, Waterloo, IA 50703",
+    "Category":"Sand Pit",
+    "Site ID":8318,
+    "Phone Number":"(844) 702-3199",
+    "Hours":"Monday - Friday | 7:00 AM - 5:00PM",
+    "Sales Employee":"Gary Rankin"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -92.51861,42.62836 ]
+    },
+    "properties": {
+    "Title":"Messerly Quarry",
+    "Address":"9255 Winslow Rd, Janesville, IA 50647",
+    "Category":"Quarry",
+    "Site ID":8323,
+    "Phone Number":"(888) 944-9400",
+    "Hours":"Monday - Friday | 7:00 AM - 5:00PM",
+    "Sales Employee":"Gary Rankin"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -92.2611,42.47272 ]
+    },
+    "properties": {
+    "Title":"Raymond/Peske",
+    "Address":"6900 Dubuque Rd, Waterloo, IA 50701",
+    "Category":"Quarry",
+    "Site ID":8331,
+    "Phone Number":"(319) 827-1678",
+    "Hours":"Monday - Friday | 7:00 AM - 5:00PM",
+    "Sales Employee":"Gary Rankin"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -92.2611,42.47272 ]
+    },
+    "properties": {
+    "Title":"Raymond/Peske",
+    "Address":"6900 Dubuque Rd, Waterloo, IA 50701",
+    "Category":"Quarry",
+    "Site ID":8335,
+    "Phone Number":"(319) 827-1678",
+    "Hours":"Monday - Friday | 7:00 AM - 5:00PM",
+    "Sales Employee":"Gary Rankin"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -92.2611,42.47272 ]
+    },
+    "properties": {
+    "Title":"Raymond/Peske",
+    "Address":"6900 Dubuque Rd, Waterloo, IA 50701",
+    "Category":"Quarry",
+    "Site ID":8337,
+    "Phone Number":"(319) 827-1678",
+    "Hours":"Monday - Friday | 7:00 AM - 5:00PM",
+    "Sales Employee":"Gary Rankin"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -92.41087,42.54133 ]
+    },
+    "properties": {
+    "Title":"Waterloo Recycle",
+    "Address":"3545 W Airline Hwy, Waterloo, IA 50701",
+    "Category":"Quarry",
+    "Site ID":8357,
+    "Phone Number":"(319) 235-6583",
+    "Hours":"Monday - Friday | 7:00 AM - 5:00PM",
+    "Sales Employee":"Gary Rankin"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -92.39899,42.67142 ]
+    },
+    "properties": {
+    "Title":"Foelske #2 Quarry",
+    "Address":"1775 260th St, denver, IA 50677",
+    "Category":"Quarry",
+    "Site ID":8503,
+    "Phone Number":"(319) 235-6583",
+    "Hours":"Monday - Friday | 7:00 AM - 5:00PM",
+    "Sales Employee":"Jeff Potratz"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -92.33197,42.8189 ]
+    },
+    "properties": {
+    "Title":"Tripoli Quarry",
+    "Address":"2131 160st St, Tripoli, IA 50676",
+    "Category":"Quarry",
+    "Site ID":8504,
+    "Phone Number":"(319) 235-6583",
+    "Hours":"Monday - Friday | 7:00 AM - 5:00PM",
+    "Sales Employee":"Jeff Potratz"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -92.04862,42.46905 ]
+    },
+    "properties": {
+    "Title":"Bloom Quarry",
+    "Address":"1165 220th St, Jesup, IA 50648",
+    "Category":"Quarry",
+    "Site ID":8505,
+    "Phone Number":"(319) 235-6583",
+    "Hours":"Monday - Friday | 7:00 AM - 5:00PM",
+    "Sales Employee":"Jeff Potratz"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -91.8703,42.44373 ]
+    },
+    "properties": {
+    "Title":"Miller Quarry",
+    "Address":"2400 King Ave, Independence, IA 50644",
+    "Category":"Quarry",
+    "Site ID":8507,
+    "Phone Number":"(319) 235-6583",
+    "Hours":"Monday - Friday | 7:15 AM - 5:15PM",
+    "Sales Employee":"Jeff Potratz"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -91.88829,42.63573 ]
+    },
+    "properties": {
+    "Title":"Oelwein Quarry",
+    "Address":"2000 105th St, Oelwein , IA 50662",
+    "Category":"Quarry",
+    "Site ID":8508,
+    "Phone Number":"(319) 235-6583",
+    "Hours":"Monday - Friday | 7:00 AM - 5:00PM",
+    "Sales Employee":"Jeff Potratz"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -91.77915,42.41658 ]
+    },
+    "properties": {
+    "Title":"Rasmussen Quarry",
+    "Address":"2586 Quasqueton Diagonal, Independence, IA 50644",
+    "Category":"Quarry",
+    "Site ID":8509,
+    "Phone Number":"(319) 235-6583",
+    "Hours":"Monday - Friday | 7:00 AM - 5:00PM",
+    "Sales Employee":"Jeff Potratz"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -92.58713,42.70665 ]
+    },
+    "properties": {
+    "Title":"Adams Sand",
+    "Address":"31256 220th, Shell Rock, IA 50670",
+    "Category":"Sand Pit",
+    "Site ID":8510,
+    "Phone Number":"(319) 235-6583",
+    "Hours":"Monday - Friday | 7:00 AM - 5:00PM",
+    "Sales Employee":"Jeff Potratz"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -92.75214,42.70494 ]
+    },
+    "properties": {
+    "Title":"Oltman Quarry",
+    "Address":"23787 Oak Ave, Allison, IA 50602",
+    "Category":"Quarry",
+    "Site ID":8511,
+    "Phone Number":"(319) 235-6583",
+    "Hours":"Monday - Friday | 7:00 AM - 5:00PM",
+    "Sales Employee":"Jeff Potratz"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -91.82308,43.0334 ]
+    },
+    "properties": {
+    "Title":"Eldorado Quarry",
+    "Address":"27742 L Ave, Eldorado, IA 52175",
+    "Category":"Quarry",
+    "Site ID":8514,
+    "Phone Number":"(319) 235-6583",
+    "Hours":"Monday - Friday | 7:00 AM - 5:00PM",
+    "Sales Employee":"Jeff Potratz"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -92.03721,42.66647 ]
+    },
+    "properties": {
+    "Title":"Fairbank Quarry",
+    "Address":"2683 W Ave, Fairbank, IA 50629",
+    "Category":"Quarry",
+    "Site ID":8515,
+    "Phone Number":"(319) 235-6583",
+    "Hours":"Monday - Friday | 7:00 AM - 5:00PM",
+    "Sales Employee":"Jeff Potratz"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -91.84399,42.85024 ]
+    },
+    "properties": {
+    "Title":"Fayette Quarry",
+    "Address":"15248 M Ave, Fayette, IA 52142",
+    "Category":"Quarry",
+    "Site ID":8517,
+    "Phone Number":"(319) 235-6583",
+    "Hours":"Monday - Friday | 7:00 AM - 5:00PM",
+    "Sales Employee":"Jeff Potratz"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -91.95828,42.98456 ]
+    },
+    "properties": {
+    "Title":"Graham #1 Quarry",
+    "Address":"18884 245 St, Hawkeye, IA 52147",
+    "Category":"Quarry",
+    "Site ID":8519,
+    "Phone Number":"(319) 235-6583",
+    "Hours":"Monday - Friday | 7:00 AM - 5:00PM",
+    "Sales Employee":"Jeff Potratz"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -91.72796,42.90799 ]
+    },
+    "properties": {
+    "Title":"Mcdonough Quarry",
+    "Address":"7226 Filmore Rd, West Union, IA 52175",
+    "Category":"Quarry",
+    "Site ID":8522,
+    "Phone Number":"(319) 235-6583",
+    "Hours":"Monday - Friday | 7:00 AM - 5:00PM",
+    "Sales Employee":"Jeff Potratz"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -91.97018,43.0204 ]
+    },
+    "properties": {
+    "Title":"Waucoma Quarry",
+    "Address":"19524 Sunset Rd, Waucoma, IA 52171",
+    "Category":"Quarry",
+    "Site ID":8525,
+    "Phone Number":"(319) 235-6583",
+    "Hours":"Monday - Friday | 7:00 AM - 5:00PM",
+    "Sales Employee":"Jeff Potratz"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -92.08094,43.11116 ]
+    },
+    "properties": {
+    "Title":"Love Quarry",
+    "Address":"1160 345th Ave, Jackson, IA 52171",
+    "Category":"Quarry",
+    "Site ID":8528,
+    "Phone Number":"(319) 235-6583",
+    "Hours":"Monday - Friday | 7:00 AM - 5:00PM",
+    "Sales Employee":"Jeff Potratz"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -92.18273,42.74043 ]
+    },
+    "properties": {
+    "Title":"Boever Sand",
+    "Address":"2120 Tahoe Ave, Readlyn, IA 50668",
+    "Category":"Sand Pit",
+    "Site ID":8540,
+    "Phone Number":"(319) 235-6583",
+    "Hours":"Monday - Friday | 7:00 AM - 5:00PM",
+    "Sales Employee":"Jeff Potratz"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -92.59864,42.7394 ]
+    },
+    "properties": {
+    "Title":"Hobson Sand",
+    "Address":"21518 Vintage Lane, Shell Rock, IA 50670",
+    "Category":"Sand Pit",
+    "Site ID":8543,
+    "Phone Number":"(319) 235-6583",
+    "Hours":"Monday - Friday | 7:00 AM - 5:00PM",
+    "Sales Employee":"Jeff Potratz"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -92.33212,42.93596 ]
+    },
+    "properties": {
+    "Title":"Rewoldt Sand",
+    "Address":"2124 290th, New Hampton, IA 50661",
+    "Category":"Sand Pit",
+    "Site ID":8544,
+    "Phone Number":"(319) 235-6583",
+    "Hours":"Monday - Friday | 7:00 AM - 5:00PM",
+    "Sales Employee":"Jeff Potratz"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -92.38259,43.04518 ]
+    },
+    "properties": {
+    "Title":"Rosonke Sand",
+    "Address":"1873 220th, New Hampton, IA 50661",
+    "Category":"Sand Pit",
+    "Site ID":8545,
+    "Phone Number":"(319) 235-6583",
+    "Hours":"Monday - Friday | 7:00 AM - 5:00PM",
+    "Sales Employee":"Jeff Potratz"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -92.06202,42.84939 ]
+    },
+    "properties": {
+    "Title":"Kasemeier Sand",
+    "Address":"15125 X Ave, Sumner, IA 50674",
+    "Category":"Sand Pit",
+    "Site ID":8547,
+    "Phone Number":"(319) 235-6583",
+    "Hours":"Monday - Friday | 7:00 AM - 5:00PM",
+    "Sales Employee":"Jeff Potratz"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -91.94253,42.84705 ]
+    },
+    "properties": {
+    "Title":"Zupke Quarry",
+    "Address":"N 3rd St, Randalia, IA 52164",
+    "Category":"Quarry",
+    "Site ID":8529,
+    "Phone Number":"(319) 235-6583",
+    "Hours":"Monday - Friday | 6:00 AM - 4:00PM",
+    "Sales Employee":"Gary Rankin"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -91.94253,42.84705 ]
+    },
+    "properties": {
+    "Title":"Zupke Sand",
+    "Address":"N 3rd St, Randalia, IA 52164",
+    "Category":"Sand Pit",
+    "Site ID":8550,
+    "Phone Number":"(319) 235-6583",
+    "Hours":"Monday - Friday | 7:00 AM - 5:00PM",
+    "Sales Employee":"Gary Rankin"
+    }
+  }
+]
+}
